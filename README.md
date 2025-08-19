@@ -4,7 +4,7 @@
 
 This project focuses on predicting housing prices using machine learning regression models. The dataset contains details of houses such as area, quality, garage type, and electrical system. These features are analyzed to identify their relationship with house prices and build a predictive model.
 
-The final solution is deployed as an interactive **Streamlit web app**, where users can input property details and get a price prediction.
+The final solution is deployed as an interactive **Streamlit web app** (https://housesalepricepred.streamlit.app/), where users can input property details and get a price prediction.
 
 ---
 
