@@ -4,7 +4,7 @@ import joblib
 import pandas as pd
 
 # Load trained model
-final_model = joblib.load("house_price_model.pkl")
+final_model = joblib.load("house_price_prediction_model.pkl")
 
 st.title("House Price Predictor")
 
